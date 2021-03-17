@@ -1,0 +1,16 @@
+@import url ('https://fonts.googleapis.com/css2? family = Lato: ital, wght @ 1.300 & family = Abrir + Sans: ital, wght @ 1.300 & display = swap');
+
+ h1,h2,h3
+ {
+    família de fontes: 'Open Sans', sans-serif;
+   
+    color: red;
+}
+        
+    p{
+        família da fonte: 'Lato', sans-serif;
+     color: indigo;
+}
+li {
+    color: green;
+}
